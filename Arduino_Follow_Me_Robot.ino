@@ -1,7 +1,9 @@
 
 #include<NewPing.h>
 #include<Servo.h>
-
+#include<AFMotor.h>
+#define RIGHT A2
+#define LEFT A3
 
   
 
